@@ -1,0 +1,17 @@
+node_modules/
+dist/
+out/
+
+# Ignore VS Code settings folder
+.vscode/
+.vscode-test/
+.vscode-test/**
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore large files that shouldn't be tracked
+*.app
